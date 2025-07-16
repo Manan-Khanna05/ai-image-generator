@@ -38,5 +38,5 @@ npm install
 # 3. Run the backend first
 npm start
 
-#4. Run the frontend 
+# 4. Run the frontend 
 npm run dev
